@@ -27,7 +27,7 @@ SET time_zone = "+00:00";
 --
 -- Estrutura da tabela `cardapio`
 --
-
+CREATE DATABASE system_jsp;
 DROP TABLE IF EXISTS `cardapio`;
 CREATE TABLE IF NOT EXISTS `cardapio` (
   `IdPizza` int(8) NOT NULL AUTO_INCREMENT,
